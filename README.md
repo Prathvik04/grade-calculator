@@ -1,4 +1,4 @@
-# Week 1 Miniproject: CLI Grade Calculator
+# CLI Grade Calculator
 
 A simple command-line grade calculator built in Python. Covers core Week 1 fundamentals: functions, loops, and dictionaries.
 
